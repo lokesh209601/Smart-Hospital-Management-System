@@ -1,0 +1,45 @@
+{
+    "admissions": [
+    ],
+    "doctors": [
+        {
+            "degree": "MBBS",
+            "department": "OPD (Out-Patient)",
+            "id": "101",
+            "joinDate": "09/04/2026",
+            "name": "Anurag",
+            "specialization": "Neurology"
+        }
+    ],
+    "labTests": [
+        {
+            "patientId": "13001",
+            "result": "Pending",
+            "testDate": "10/04/2026",
+            "testType": "Blood Test"
+        }
+    ],
+    "patients": [
+        {
+            "address": "MOHALI",
+            "age": 22,
+            "bloodGroup": "A+",
+            "gender": "Male",
+            "id": "13001",
+            "name": "LOKESH ",
+            "phone": "9580937145",
+            "registrationDate": "09/04/2026"
+        },
+        {
+            "address": "varanasi",
+            "age": 24,
+            "bloodGroup": "A+",
+            "gender": "Other",
+            "id": "13002",
+            "name": "Gurudutt tiwari",
+            "phone": "7873793984",
+            "registrationDate": "10/04/2026"
+        }
+    ],
+    "totalIncome": 111000
+}
